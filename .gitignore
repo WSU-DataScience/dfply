@@ -7,12 +7,16 @@ __pycache__/
 .cache
 
 # Annoying Mac File
-.DC_Store
+.DS_Store
+**/.DS_Store
 
 # workbook test files
 test/feature_workbook.ipynb
 test/.ipynb_checkpoints/*
 test/worksheet.py
+
+# Experimentation notebooks checkpoints
+dfply/.ipynb_checkpoints/*
 
 # distribution
 dist
